@@ -1,0 +1,25 @@
+# Judgment Proof -- Can Creditors Collect? [2026] -- Judgmentproof
+> Are you judgment proof? If you have no income or assets to seize, creditors can't collect. Learn how to determine your status. 2026 guide. T collect even if they sue. Find out if you qualify based on income, assets, and state exemption laws. Free 2026.
+
+## About
+judgmentproof.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Asset Protection When Judgment Proof -- What Creditors Cannot Seize -- Judgmentproof: https://judgmentproof.org/asset-protection.html
+- Protecting Your Bank Account From Creditor Levies and Freezes -- Judgmentproof: https://judgmentproof.org/bank-account-protection.html
+- Disability Income Protection From Creditors -- SSDI, SSI, and Private Disability -- Judgmentproof: https://judgmentproof.org/disability-income-protection.html
+- Income Types Protected From Garnishment -- What Creditors Cannot Take -- Judgmentproof: https://judgmentproof.org/income-types-protected.html
+- Judgment Proof -- Can Creditors Collect? [2026] -- Judgmentproof: https://judgmentproof.org/
+- Judgment Proof Letter Template -- Notify Creditors of Your Protected Status -- Judgmentproof: https://judgmentproof.org/judgment-proof-letter.html
+- Can Social Security Be Garnished? -- Protecting Your Benefits -- Judgmentproof: https://judgmentproof.org/social-security-garnishment.html
+- State Exemptions Overview -- How State Law Protects Judgment-Proof Status -- Judgmentproof: https://judgmentproof.org/state-exemptions-overview.html
+- What Does It Mean to Be Judgment Proof? -- Complete Guide -- Judgmentproof: https://judgmentproof.org/what-is-judgment-proof.html
+- When Judgment-Proof Status Changes -- Protecting Yourself as Finances Improve -- Judgmentproof: https://judgmentproof.org/when-status-changes.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
